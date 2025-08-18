@@ -49,26 +49,24 @@
     <td align="center"><a href="https://github.com/jaeyoung-kwon"><img src="https://avatars.githubusercontent.com/jaeyoung-kwon" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/jeongyou"><img src="https://avatars.githubusercontent.com/jeongyou" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/kimyou1102"><img src="https://avatars.githubusercontent.com/kimyou1102" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/dlsxjzld"><img src="https://avatars.githubusercontent.com/dlsxjzld" width="130px;" alt=""></a></td>
+ 
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/keemsebin"><b>세라</b></a></td>
     <td align="center"><a href="https://github.com/jaeyoung-kwon"><b>재오</b></a></td>
     <td align="center"><a href="https://github.com/jeongyou"><b>기린</b></a></td>
     <td align="center"><a href="https://github.com/kimyou1102"><b>데이지</b></a></td>
-    <td align="center"><a href="https://github.com/dlsxjzld"><b>로건</b></a></td>
+    
   </tr>
   <tr>
-      <td align="center"><a href="https://github.com/MinSungJe"><img src="https://avatars.githubusercontent.com/MinSungJe" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/ohgus"><img src="https://avatars.githubusercontent.com/ohgus" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/ExceptAnyone"><img src="https://avatars.githubusercontent.com/ExceptAnyone" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/dlsxjzld"><img src="https://avatars.githubusercontent.com/dlsxjzld" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/MinSungJe"><img src="https://avatars.githubusercontent.com/MinSungJe" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ha-kuku"><img src="https://avatars.githubusercontent.com/ha-kuku" width="130px;" alt=""></a></td>
 
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/dlsxjzld"><b>로건</b></a></td>
     <td align="center"><a href="https://github.com/MinSungJe"><b>밍고</b></a></td>
-    <td align="center"><a href="https://github.com/ohgus"><b>오거스</b></a></td>
-    <td align="center"><a href="https://github.com/ExceptAnyone"><b>익셉</b></a></td>
     <td align="center"><a href="https://github.com/ha-kuku"><b>하쿠</b></a></td>
   </tr>
 </table>
